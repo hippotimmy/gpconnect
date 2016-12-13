@@ -6,7 +6,7 @@ sidebar: accessrecord_sidebar
 permalink: accessrecord_release_notes.html
 summary: "Release notes for the various versions of the Access Record capability."
 ---
-- 1.0.0-rc.2
+- 1.0.0-rc.2 ((Released 4th December 2016))
 
    - The elaboration of page(s) content to reflect the validation of data-sharing agreements by the Spine Security Proxy only, and the requirement that Provider Data-Sharing configuration should not be applied or changed for GP Connect interactions 
   - The application of a configurable Legal Exclusion set - currently the RGCP set on TRUD -  which is being reviewed with amendments/changes expected Feb 2017
